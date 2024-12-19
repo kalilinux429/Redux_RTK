@@ -1,4 +1,4 @@
-# Redux Toolkit App by Suchit Kapale
+# Redux Toolkit 
 
 This is a simple e-commerce web application built using **React** and **Redux Toolkit** for state management. It demonstrates adding products to a cart, removing them, and displaying the total quantity and price using Redux for state handling.
 
